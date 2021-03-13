@@ -19,5 +19,5 @@ dependencies:
   contact_picker_platform_interface: ^4.3.0
 
 environment:
-  sdk: ">=2.12.0-0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
   flutter: ">=2.0.0"
